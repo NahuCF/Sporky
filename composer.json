@@ -4,7 +4,7 @@
     "autoload": {
         "psr-4": {
             "App\\": "app/",
-            "Sporky\\framework\\": "framework/"
+            "Sporky\\Core\\": "core/"
         }
     },
     "authors": [
@@ -13,5 +13,7 @@
             "email": "nahuefer173@gmail.com"
         }
     ],
-    "require": {}
+    "require-dev": {
+        "symfony/var-dumper": "^6.2"
+    }
 }
