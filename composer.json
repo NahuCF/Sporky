@@ -1,6 +1,6 @@
 {
     "name": "sporky/sporky",
-    "description": "Sporky PHP  framework",
+    "description": "Sporky PHP framework",
     "autoload": {
         "psr-4": {
             "App\\": "app/",
